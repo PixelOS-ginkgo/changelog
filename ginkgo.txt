@@ -1,0 +1,10 @@
+======= 06 January 2025 =======
+• Initial QPR1 release
+• Signed build
+• Miui Camera Included
+• Using last RyzenKernel non-dynamic
+• PIHooks: Allow user to disable prop imitation
+• Camera: Allow setting fallback physical ID for logical camera [2/2]
+• Connectivity: Add capability to allow tethering to use VPN upstreams
+• Disallow non-VPN tethering upstreams on always-on VPN lockdown mode
+===============================

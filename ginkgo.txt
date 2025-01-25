@@ -1,3 +1,17 @@
+======= 24 January 2025 =======
+• Update January Sec Patch
+• Signed build
+• Miui Camera Included
+• Settings: Make all user apps cloneable
+• SystemUI: Forward port 'HD & wifi calling statusbar icons'
+• SystemUI: Add roaming indicator to statusbar tuner
+• SystemUI: Add hotspot toggle in QS internet dialog
+• HACK: telephony: Conditionally force enable LTE_CA
+• [SQUASH] base: Hide ADB and developer setting enable status
+• SystemUI: Option to disable Data Disabled Indicator icon
+• Revert "Settings: Append custom version on build display id"
+===============================
+
 ======= 06 January 2025 =======
 • Initial QPR1 release
 • Signed build

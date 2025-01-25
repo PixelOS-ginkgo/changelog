@@ -7,6 +7,7 @@
 • SystemUI: Add roaming indicator to statusbar tuner
 • SystemUI: Add hotspot toggle in QS internet dialog
 • HACK: telephony: Conditionally force enable LTE_CA
+• Settings: Add option to toggle Google Play Integrity spoofing
 • [SQUASH] base: Hide ADB and developer setting enable status
 • SystemUI: Option to disable Data Disabled Indicator icon
 • Revert "Settings: Append custom version on build display id"

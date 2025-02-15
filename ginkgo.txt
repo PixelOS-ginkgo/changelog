@@ -1,9 +1,16 @@
+======= 15 February 2025 =======
+• update last PixelOS source
+• fix selfie video camera crash (OMX issue)
+• Torch controll still bugged, i'll remove it soon
+===============================
+
 ======= 12 February 2025 =======
 • Update February Sec Patch
 • Add LMOFreefrom (NEED TEST)
 • Add Torch Controll (Don't ask if there is no effect, because I think it's useless.)
 • Fix HDR on Google Camera (Thanks for ZorEl212 for commmits)
 ===============================
+
 ======= 24 January 2025 =======
 • Update January Sec Patch
 • Signed build

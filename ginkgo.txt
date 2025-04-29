@@ -1,3 +1,17 @@
+======= 29 April 2025 =======
+• Initial PixelOS QPR2 (April Sec Patch)
+• Update GPS Blobs from LA.UM.9.15.2.r1-09800-KAMORTA.QSSI14.0
+• Update from LA.QSSI.13.0.r1-06400-qssi.0
+• Enabled Check Elf
+• [TMP] Set Density to 392
+• Provide camera IDs remapping property and drop camera provider blobs
+• Move Media Codec to C2
+• drop OMX Software
+Kernel Side:
+• Enable UClamp
+• Introduce Bypass Charging
+===============================
+
 ======= 15 February 2025 =======
 • update last PixelOS source
 • fix selfie video camera crash (OMX issue)

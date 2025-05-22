@@ -1,4 +1,4 @@
-======= 29 April 2025 =======
+======= 22 May 2025 =======
 • Sync last PixelOS QPR2 (May Sec Patch)
 • Enable Expressive Design
 • Update Graphics (Adreno) Blobs from nabu V13.0.3.0.RKXCNXM

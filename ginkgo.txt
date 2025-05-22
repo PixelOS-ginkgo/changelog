@@ -1,4 +1,20 @@
 ======= 29 April 2025 =======
+• Sync last PixelOS QPR2 (May Sec Patch)
+• Enable Expressive Design
+• Update Graphics (Adreno) Blobs from nabu V13.0.3.0.RKXCNXM
+• Update Postprocessing Blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+  (Include fix Magic Editor Google Photos)
+• Update DRM blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+• Migrate Lineage Health to soong_config_set
+• Migrate vendor_init_lib to soong config
+• Fix no sound on call
+• Fix save screen recording
+
+Known issue:
+- 3 button navigationbar
+===============================
+
+======= 29 April 2025 =======
 • Initial PixelOS QPR2 (April Sec Patch)
 • Update GPS Blobs from LA.UM.9.15.2.r1-09800-KAMORTA.QSSI14.0
 • Update from LA.QSSI.13.0.r1-06400-qssi.0
